@@ -1,2 +1,2 @@
 # NN for Plants
-Trying to make Neural networks better for plant leaf recognition
+Making Neural networks better for plant leaf recognition
